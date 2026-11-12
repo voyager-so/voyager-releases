@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
-  "generatedAt": "2026-11-12T12:47:23.352Z",
+  "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
+  "generatedAt": "2026-11-12T19:47:41.570Z",
   "entries": [
     {
       "revision": 1,
@@ -20,11 +20,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/ableton-live"
     },
@@ -45,11 +45,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/after-effects"
     },
@@ -70,11 +70,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "blender-previs-to-photoreal-style-transfer",
@@ -105,11 +105,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/brand-kit"
     },
@@ -130,11 +130,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/canvas"
     },
@@ -155,11 +155,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/capcut"
     },
@@ -180,11 +180,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/cinema-4d"
     },
@@ -205,11 +205,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/clip-review"
     },
@@ -230,11 +230,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/comfyui"
     },
@@ -255,11 +255,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/composition-review"
     },
@@ -280,11 +280,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/computer-use"
     },
@@ -305,11 +305,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/conversation-collaboration"
     },
@@ -330,11 +330,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/custom-connectors"
     },
@@ -355,11 +355,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/davinci-resolve"
     },
@@ -380,11 +380,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/demo-mac"
     },
@@ -405,24 +405,24 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/descript"
     },
     {
       "revision": 1,
-      "minVoyagerVersion": "2026.11.13-nightly.20261112.20307",
+      "minVoyagerVersion": "2026.11.13-nightly.20261112.20361",
       "requiredCapabilities": [],
       "dependencies": [],
       "suggestedSkills": [],
       "payload": {
-        "target": "skills/edit-video/4ec0dd39be45568799d0ce15a300ba66961917de01da86a009641e1e104aeb1a.json",
-        "sha256": "4ec0dd39be45568799d0ce15a300ba66961917de01da86a009641e1e104aeb1a",
-        "length": 33572,
+        "target": "skills/edit-video/761e24cbb5f72bd4bef598ac8982262f48c78978343d61ad42870c8bb6f63084.json",
+        "sha256": "761e24cbb5f72bd4bef598ac8982262f48c78978343d61ad42870c8bb6f63084",
+        "length": 34661,
         "mediaType": "application/json"
       },
       "title": "edit-video",
@@ -430,11 +430,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/edit-video"
     },
@@ -455,11 +455,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/effectcraft"
     },
@@ -480,11 +480,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/fframes"
     },
@@ -505,11 +505,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/figma"
     },
@@ -530,11 +530,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/final-cut-pro"
     },
@@ -555,11 +555,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/frameio"
     },
@@ -580,11 +580,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/gpu-machines"
     },
@@ -605,11 +605,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/houdini"
     },
@@ -630,11 +630,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/hum-to-music"
     },
@@ -655,11 +655,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/hyperframes"
     },
@@ -680,11 +680,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/illustrator"
     },
@@ -705,11 +705,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/instagram-edits"
     },
@@ -730,11 +730,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/library-brand"
     },
@@ -755,11 +755,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/lightcraft"
     },
@@ -780,11 +780,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "choose-media-model"
@@ -808,11 +808,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "talking-character-launch-video"
@@ -836,11 +836,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/make-deck"
     },
@@ -861,11 +861,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "make-web-game",
@@ -890,11 +890,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "choose-media-model"
@@ -918,11 +918,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/make-motion-graphics"
     },
@@ -943,11 +943,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "critique-track",
@@ -973,11 +973,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/make-product-demo"
     },
@@ -998,11 +998,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/make-social-loop"
     },
@@ -1023,11 +1023,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "choose-media-model"
@@ -1051,11 +1051,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/make-static-graphic"
     },
@@ -1076,11 +1076,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/manim"
     },
@@ -1101,11 +1101,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/mini-flows"
     },
@@ -1126,11 +1126,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/mirage-tesseract"
     },
@@ -1151,11 +1151,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/obs-studio"
     },
@@ -1176,11 +1176,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/photocraft"
     },
@@ -1201,11 +1201,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/photoshop"
     },
@@ -1226,11 +1226,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/pixellab"
     },
@@ -1251,11 +1251,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/premiere-pro"
     },
@@ -1276,11 +1276,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "publish-to-itch"
@@ -1304,11 +1304,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/publish-video"
     },
@@ -1329,11 +1329,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/reaper"
     },
@@ -1354,11 +1354,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/remotion"
     },
@@ -1379,11 +1379,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/roblox-studio"
     },
@@ -1404,11 +1404,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/room-to-video"
     },
@@ -1429,11 +1429,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/sample-voice"
     },
@@ -1454,11 +1454,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/screen-capture"
     },
@@ -1479,11 +1479,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/unity-engine"
     },
@@ -1504,11 +1504,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/unreal-engine"
     },
@@ -1529,11 +1529,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/vectorcraft"
     },
@@ -1554,11 +1554,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/video-styles"
     },
@@ -1579,11 +1579,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/vmo"
     },
@@ -1604,11 +1604,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "absorbedSkills": [
         "choose-media-model"
@@ -1632,11 +1632,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/voyager-setup"
     },
@@ -1657,11 +1657,11 @@
       "tags": [],
       "outcomes": [],
       "prerequisites": [],
-      "sourceCommit": "4b858b856c3a15589900f09d99c9e49f4dbf7128",
+      "sourceCommit": "66d842bf2ab0ade3647a3d981acf650d9d89df0e",
       "testedAgainst": [
         "0.1.0"
       ],
-      "publishedAt": "2026-11-12T12:47:23.352Z",
+      "publishedAt": "2026-11-12T19:47:41.570Z",
       "kind": "skill",
       "id": "skills/widgets"
     }

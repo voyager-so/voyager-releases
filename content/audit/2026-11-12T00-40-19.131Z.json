@@ -1,0 +1,21 @@
+{
+  "action": "refresh",
+  "refs": [],
+  "evidence": "",
+  "reason": "",
+  "override": null,
+  "actor": "jhh3",
+  "sourceRun": "43128947554",
+  "catalogs": [
+    {
+      "namespace": "skills",
+      "sequence": 252,
+      "revisions": 676
+    },
+    {
+      "namespace": "techniques",
+      "sequence": 252,
+      "revisions": 134
+    }
+  ]
+}

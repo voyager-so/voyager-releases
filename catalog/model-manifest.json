@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T21:00:00Z",
+  "updatedAt": "2026-11-16T02:20:00Z",
   "compatibility": [
     {
       "driver": "codex",
@@ -15,10 +15,10 @@
     {
       "driver": "claudeAgent",
       "voyagerRange": ">=0.1.0",
-      "recommendedRange": ">=2.1.321",
+      "recommendedRange": ">=2.1.311",
       "ranges": [
-        { "range": ">=2.1.321", "status": "supported" },
-        { "range": ">=2.1.111 <2.1.321", "status": "graceful" },
+        { "range": ">=2.1.311", "status": "supported" },
+        { "range": ">=2.1.111 <2.1.311", "status": "graceful" },
         { "range": "<2.1.111", "status": "unsupported" }
       ]
     },
